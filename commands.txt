@@ -1,0 +1,35 @@
+dldevbox-home
+
+docker run -u $(id -u):$(id -g) --cpus="2.0" --memory="4g" --restart unless-stopped -it -p 8888:8888 -v /home/kunalshah/code:/code --name dldevbox dldev:latest bash
+
+
+jupyter lab --notebook-dir=/code/pytorch-Deep-Learning --ip 0.0.0.0
+
+
+Hello neighbours,
+
+we are in Tower 16, flat 1002 and frequently we observe that ciggrate butts and other rubbish is thrown from floors above 1002.
+
+This might be your blind spot but we have extended planter section and all the rubbish thrown from above does not fall on 0 floor but in our planter section, sometimes damaging our plants and also making it a big mess for us to clean.
+
+So I request everyone above 1002, please do not through garbage from your balcony.
+
+As communicated to you by VCC, other groups and citizens of the township, we reject the decision taken by the ATM for the infrastructure amount adjustment and demand more transparency and involvement.
+
+
+*Pune Municipal Corporation Free vaccine schedule for 17/07*
+
+184 centers will have 100 doses each
+
+*Covishield*
+```
+- 40 online registration for 18+ first dose
+- 20 walk in for 18+ first dose
+- 20 online second dose - 
+- 20 walk-in second dose - second dose will be given to the citizens whose first dose was on or before 23 April
+- Cowin Slots will open at 8:00am tomorrow (17/07).
+- Walk-in for pregnant women
+- Amanora Sports Complex is in the list.
+- Hadapsar centers are serial no. 153 to 170
+```
+
